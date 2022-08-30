@@ -1,0 +1,62 @@
+
+body{
+    margin: auto;
+    margin-left: 50px;
+    margin-right: 50px;
+    line-height: 1.5;
+}
+
+h1{
+    text-align: center;
+}
+
+.photo{
+    height: 200px;
+    width: 200px;
+    display: block;
+    margin:auto;
+    margin-bottom: 20px;
+    
+}
+
+div{
+    margin-bottom: 20px;
+    border: 2px solid gray;
+}
+
+button{
+    background-color: #9ad0ec;
+    
+}
+
+p{
+    text-indent: 20px;
+}
+
+.ptt{
+    height: 400px;
+    width: 200px;
+    
+}
+
+table{
+    border: 2px solid black;
+    border-collapse: collapse;
+    margin: auto;
+    
+}
+
+td{
+    width: 120px;
+    border: 2px solid black;
+    padding: 5px;
+    text-align: center;
+}
+
+tr:nth-child(1){
+    background-color: #9ad0ec;
+}
+
+td:nth-child(1){
+    background-color: #9ad0ec;
+}
